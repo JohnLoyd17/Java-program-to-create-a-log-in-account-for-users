@@ -1,4 +1,4 @@
-package userLog_in;
+package userLogin;
 import java.util.Scanner;
 
 public class logIn {
